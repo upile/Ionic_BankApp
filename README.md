@@ -1,1 +1,1 @@
-Ionic_BankApp
+bankApp
